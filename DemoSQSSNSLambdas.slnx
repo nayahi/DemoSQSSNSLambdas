@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EmailNotifier.Lambda/EmailNotifier.Lambda.csproj" />
+  <Project Path="OrderProcessor.Lambda/OrderProcessor.Lambda.csproj" />
+</Solution>
